@@ -1,5 +1,5 @@
 # praktykiwp
 
 
-##pierwszy tydzien
+*pierwszy tydzien
 stowrzenie README.md i .gitignore
