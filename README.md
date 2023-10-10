@@ -8,3 +8,5 @@ stowrzenie README.md i .gitignore
 zaczecie kodu python 
 6.11
 kontynuacja 
+10.10
+spotkanie o godzinie 13
