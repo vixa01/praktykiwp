@@ -10,3 +10,5 @@ zaczecie kodu python
 kontynuacja 
 10.10
 spotkanie o godzinie 13
+10.10
+dalsza "walka" z kodem
